@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="assets/logo.png" width="120" alt="Avalon Safe Logo">
+<img src="assets/logo.png" width="120" alt="Avalon Logo">
 
-# Avalon Safe
+# Avalon
 
 ### **你的重要文档私人岛屿**
 
 **Your private island for important documents.**
 
-<img src="assets/UI preview.png" width="1000" alt="Avalon Safe UI preview">
+<img src="assets/UI preview.png" width="1000" alt="Avalon UI preview">
 
 
 [English](README.md) · [简体中文](README.zh-CN.md)
@@ -20,7 +20,7 @@
 
 ## 简介
 
-**Avalon Safe** 是一款面向 iOS 的隐私优先个人文档管理应用。
+**Avalon** 是一款面向 iOS 的隐私优先个人文档管理应用。
 
 它专注于一件事情：
 
@@ -28,7 +28,7 @@
 
 护照、身份证件、合同、证书、保险文件、房产文件、医疗记录等重要资料，往往散落在纸质文件、手机相册和不同的文件夹中。
 
-Avalon Safe 希望让这件事情变得简单：
+Avalon 希望让这件事情变得简单：
 
 **扫描 → 保存 → 查找**
 
@@ -46,7 +46,7 @@ Avalon Safe 希望让这件事情变得简单：
 
 传说中，阿瓦隆是苹果岛，外人难以找到，由仙女守护，那里存放着王与剑，也见证着伤痛与归来。
 
-**Avalon Safe** 延续了这层意味。
+**Avalon** 延续了这层意味。
 
 它不是一个冷冰冰的“数字保险柜”，而是一座属于你的**私密之岛**：
 
@@ -54,11 +54,11 @@ Avalon Safe 希望让这件事情变得简单：
 
 因此：
 
-**Avalon Safe = Your private island for important documents.**
+**Avalon = Your private island for important documents.**
 
 ---
 
-## 为什么要做 Avalon Safe
+## 为什么要做 Avalon
 
 我们认为，重要文档有两个最常见的问题：
 
@@ -68,7 +68,7 @@ Avalon Safe 希望让这件事情变得简单：
 
 一旦遗失、损坏，或者需要在异地使用，就会变得非常麻烦。
 
-Avalon Safe 希望让重要纸质文档能够被快速数字化，并安全保存。
+Avalon 希望让重要纸质文档能够被快速数字化，并安全保存。
 
 ### 2. 需要的时候，不要到处找
 
@@ -76,17 +76,17 @@ Avalon Safe 希望让重要纸质文档能够被快速数字化，并安全保�
 
 > **“我知道我有，但我不知道放在哪里。”**
 
-Avalon Safe 希望让重要文档始终处于一个清晰、私密、容易找到的位置。
+Avalon 希望让重要文档始终处于一个清晰、私密、容易找到的位置。
 
 我们的目标非常简单：
 
-> **重要文件，就存进 Avalon Safe。**
+> **重要文件，就存进 Avalon。**
 
 ---
 
 ## 核心体验
 
-Avalon Safe 围绕三个核心动作设计：
+Avalon 围绕三个核心动作设计：
 
 ### 📷 Scan
 
@@ -112,7 +112,7 @@ Avalon Safe 围绕三个核心动作设计：
 
 ## 灵感与参考
 
-Avalon Safe 的核心体验围绕三个部分展开：
+Avalon 的核心体验围绕三个部分展开：
 
 **拍摄扫描 → 安全加密 → 文档管理**
 
@@ -124,11 +124,11 @@ Avalon Safe 的核心体验围绕三个部分展开：
 
 参考其在 iPhone 上的文档拍摄、扫描与数字化体验。
 
-我们希望 Avalon Safe 能让用户从一张纸质文档开始，快速完成：
+我们希望 Avalon 能让用户从一张纸质文档开始，快速完成：
 
 **拍摄 → 扫描 → 转换 → 保存**
 
-Open Scanner 是一个开源的 iPhone 文档扫描项目，为 Avalon Safe 的扫描入口和文档数字化体验提供参考。
+Open Scanner 是一个开源的 iPhone 文档扫描项目，为 Avalon 的扫描入口和文档数字化体验提供参考。
 
 ### 🔐 加密与隐私 — Cryptomator
 
@@ -136,7 +136,7 @@ Open Scanner 是一个开源的 iPhone 文档扫描项目，为 Avalon Safe 的�
 
 参考其客户端加密（Client-Side Encryption）和隐私优先的设计理念。
 
-Avalon Safe 中的重要文档不应该只是“放在一个文件夹里”，而应该从设计之初就被视为**需要保护的私人数据**。
+Avalon 中的重要文档不应该只是“放在一个文件夹里”，而应该从设计之初就被视为**需要保护的私人数据**。
 
 我们重点关注：
 
@@ -149,23 +149,23 @@ Avalon Safe 中的重要文档不应该只是“放在一个文件夹里”，�
 
 参考其UI设计。
 
-Avalon Safe 不希望成为一个“什么都能存”的数字保险箱，而是专注于**重要文档**。
+Avalon 不希望成为一个“什么都能存”的数字保险箱，而是专注于**重要文档**。
 
-我们希望文档进入 Avalon Safe 后能够：
+我们希望文档进入 Avalon 后能够：
 
 **分类 → 整理 → 查找 → 快速取用**
 
 ### 三个方向，一个完整体验
 
-| 核心能力     | 参考项目         | Avalon Safe |
+| 核心能力     | 参考项目         | Avalon |
 | -------- | ------------ | ----------- |
 | 📷 拍摄扫描  | Open Scanner | 将纸质文档数字化    |
 | 🔐 加密保护  | Cryptomator  | 保护重要文档与私人数据 |
 | 🗂️ 文档管理  | iOS文件      | 分类、整理与快速查找  |
 
-这些项目是 **Avalon Safe 的灵感与技术参考，而不是需要复制的产品**。
+这些项目是 **Avalon 的灵感与技术参考，而不是需要复制的产品**。
 
-我们希望在这些优秀项目的基础上，形成属于 Avalon Safe 自己的体验：
+我们希望在这些优秀项目的基础上，形成属于 Avalon 自己的体验：
 
 > **Scan. Store. Find.**
 
@@ -173,7 +173,7 @@ Avalon Safe 不希望成为一个“什么都能存”的数字保险箱，而�
 
 ## 可以保存哪些重要文档？
 
-Avalon Safe 专注于现实生活中真正重要、需要长期保存的文档。
+Avalon 专注于现实生活中真正重要、需要长期保存的文档。
 
 ### 1. 身份与个人记录
 
@@ -219,7 +219,7 @@ Avalon Safe 专注于现实生活中真正重要、需要长期保存的文档�
 
 ### 🎯 专注于重要文档
 
-Avalon Safe 不试图成为：
+Avalon 不试图成为：
 
 * 密码管理器
 * 云盘
@@ -240,7 +240,7 @@ Avalon Safe 不试图成为：
 
 ### 🏝️ 私人且可靠
 
-Avalon Safe 应该像一座属于用户自己的私人岛屿：
+Avalon 应该像一座属于用户自己的私人岛屿：
 
 安静、简单、私密，并且在真正需要的时候可靠地找到重要资料。
 
@@ -248,7 +248,7 @@ Avalon Safe 应该像一座属于用户自己的私人岛屿：
 
 ## Roadmap
 
-Avalon Safe 目前仍处于开发阶段。
+Avalon 目前仍处于开发阶段。
 
 计划逐步完善：
 
@@ -268,7 +268,7 @@ Roadmap 会随着项目的发展持续调整。
 
 ## Contributing
 
-Avalon Safe 是一个希望持续探索的开源项目。
+Avalon 是一个希望持续探索的开源项目。
 
 如果你对以下方向感兴趣，欢迎参与：
 
@@ -281,7 +281,7 @@ Avalon Safe 是一个希望持续探索的开源项目。
 * UI / UX
 * 产品设计
 
-无论你希望贡献代码、提出想法、改进设计，还是发现问题，都欢迎参与 Avalon Safe。
+无论你希望贡献代码、提出想法、改进设计，还是发现问题，都欢迎参与 Avalon。
 
 > **Build a private island for important documents.**
 
@@ -289,11 +289,11 @@ Avalon Safe 是一个希望持续探索的开源项目。
 
 ## 开源协议
 
-Avalon Safe 采用 **Apache License 2.0** 开源协议。
+Avalon 采用 **Apache License 2.0** 开源协议。
 
 你可以自由使用、修改和分发本软件，但须遵守协议条款。
 
 完整协议文本请查看 [LICENSE](LICENSE) 文件（英文，具有法律效力）。
 
-Copyright © 2026 Avalon Safe contributors.
+Copyright © 2026 Avalon contributors.
 

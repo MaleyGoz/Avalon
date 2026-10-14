@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/logo.png" width="120" alt="Avalon Safe Logo">
+<img src="assets/logo.png" width="120" alt="Avalon Logo">
 
-# Avalon Safe
+# Avalon
 
 ### **Your private island for important documents.**
 
-<img src="assets/UI preview.png" width="1000" alt="Avalon Safe UI preview">
+<img src="assets/UI preview.png" width="1000" alt="Avalon UI preview">
 
 
 [English](README.md) · [简体中文](README.zh-CN.md)
@@ -17,7 +17,7 @@
 
 ## Overview
 
-**Avalon Safe** is a privacy-first personal document manager for iOS.
+**Avalon** is a privacy-first personal document manager for iOS.
 
 It focuses on one simple thing:
 
@@ -25,7 +25,7 @@ It focuses on one simple thing:
 
 Important documents are often scattered across paper files, drawers, photo libraries, downloads, and different folders — passports, IDs, contracts, certificates, insurance records, property documents, medical records, and more.
 
-Avalon Safe aims to make managing them simple:
+Avalon aims to make managing them simple:
 
 **Scan → Store → Find**
 
@@ -43,7 +43,7 @@ In Arthurian legend, **Avalon** is a mysterious island hidden beyond the mist.
 
 Often described as the Isle of Apples, Avalon is a place beyond the reach of ordinary people, watched over by magical guardians. It is associated with King Arthur, Excalibur, healing, and return.
 
-**Avalon Safe** carries this idea forward.
+**Avalon** carries this idea forward.
 
 It is not meant to feel like a cold, impersonal "digital vault."
 
@@ -53,11 +53,11 @@ Instead, it is a **private island of your own**:
 
 That's the idea behind:
 
-**Avalon Safe = Your private island for important documents.**
+**Avalon = Your private island for important documents.**
 
 ---
 
-## Why Avalon Safe?
+## Why Avalon?
 
 We believe important documents have two common problems:
 
@@ -67,7 +67,7 @@ Many important documents still exist as paper — stored in filing cabinets, dra
 
 When a document is lost, damaged, or needed while you're away from home, dealing with it can quickly become frustrating.
 
-Avalon Safe makes it easy to digitize important paper documents and keep a secure copy close at hand.
+Avalon makes it easy to digitize important paper documents and keep a secure copy close at hand.
 
 ### 2. Don't search everywhere when you need them
 
@@ -79,17 +79,17 @@ It's:
 
 > **"I know I have it. I just don't know where I put it."**
 
-Avalon Safe gives important documents a clear, private, and organized place where they can be found when you need them.
+Avalon gives important documents a clear, private, and organized place where they can be found when you need them.
 
 Our goal is simple:
 
-> **When a document matters, put it in Avalon Safe.**
+> **When a document matters, put it in Avalon.**
 
 ---
 
 ## Core Experience
 
-Avalon Safe is built around three simple actions:
+Avalon is built around three simple actions:
 
 ### 📷 Scan
 
@@ -101,7 +101,7 @@ Turn important physical documents into digital ones.
 
 Keep documents in a privacy- and security-focused environment.
 
-Avalon Safe supports **PDF** and **JPG**, keeping the product focused and intentionally simple.
+Avalon supports **PDF** and **JPG**, keeping the product focused and intentionally simple.
 
 ### 🔎 Find
 
@@ -115,7 +115,7 @@ The experience:
 
 ## Inspiration & References
 
-Avalon Safe's core experience is built around three areas:
+Avalon's core experience is built around three areas:
 
 **Capture & Scan → Encryption & Privacy → Document Management**
 
@@ -125,19 +125,19 @@ We look to three excellent open-source projects and products for technical and p
 
 [Open Scanner](https://github.com/pencilresearch/OpenScanner)
 
-Avalon Safe draws inspiration from Open Scanner's approach to document capture, scanning, and digitization on iPhone.
+Avalon draws inspiration from Open Scanner's approach to document capture, scanning, and digitization on iPhone.
 
 We want the journey from a piece of paper to a digital document to be simple:
 
 **Capture → Scan → Process → Save**
 
-Open Scanner is an open-source document scanning project for iPhone and provides valuable reference for Avalon Safe's scanning and document digitization experience.
+Open Scanner is an open-source document scanning project for iPhone and provides valuable reference for Avalon's scanning and document digitization experience.
 
 ### 🔐 Encryption & Privacy — Cryptomator
 
 [Cryptomator for iOS](https://github.com/cryptomator/ios)
 
-Avalon Safe draws inspiration from Cryptomator's approach to **client-side encryption** and privacy-focused storage.
+Avalon draws inspiration from Cryptomator's approach to **client-side encryption** and privacy-focused storage.
 
 Important documents should not simply be "files in a folder." From the beginning, they should be treated as **private data that deserves protection**.
 
@@ -151,9 +151,9 @@ Areas we care about include:
 ### 🗂️ Document Management — iOS Files
 
 
-Avalon Safe draws inspiration from Sealby's approach to private file management, including folders, tags, organization, and search.
+Avalon draws inspiration from Sealby's approach to private file management, including folders, tags, organization, and search.
 
-Avalon Safe is not intended to become a digital vault for everything. It is specifically focused on **important documents**.
+Avalon is not intended to become a digital vault for everything. It is specifically focused on **important documents**.
 
 We want documents to move naturally through:
 
@@ -161,13 +161,13 @@ We want documents to move naturally through:
 
 ### Three Directions, One Experience
 
-| Core Capability         | Reference    | Avalon Safe                                  |
+| Core Capability         | Reference    | Avalon                                  |
 | ----------------------- | ------------ | -------------------------------------------- |
 | 📷 Capture & Scanning   | Open Scanner | Digitize physical documents                  |
 | 🔐 Encryption & Privacy | Cryptomator  | Protect important documents and private data |
 | 🗂️ Document Management | iOS Files       | Organize and quickly find documents          |
 
-These projects are **inspiration and technical references for Avalon Safe, not products to be copied or bundled together**.
+These projects are **inspiration and technical references for Avalon, not products to be copied or bundled together**.
 
 We hope to build our own experience on top of the ideas and lessons from these projects:
 
@@ -177,7 +177,7 @@ We hope to build our own experience on top of the ideas and lessons from these p
 
 ## What Can You Store?
 
-Avalon Safe is designed for important documents that you may need to keep for years — documents that are difficult to replace, expensive to lose, or simply worth having when you need them.
+Avalon is designed for important documents that you may need to keep for years — documents that are difficult to replace, expensive to lose, or simply worth having when you need them.
 
 ### 1. Identity & Personal Records
 
@@ -223,7 +223,7 @@ Security and privacy should be considered from the beginning of the product arch
 
 ### 🎯 Focused on Important Documents
 
-Avalon Safe is not trying to become:
+Avalon is not trying to become:
 
 * A password manager
 * A cloud drive
@@ -244,7 +244,7 @@ Every feature — scanning, storing, organizing, and finding — should serve th
 
 ### 🏝️ Private & Reliable
 
-Avalon Safe should feel like a private island of your own:
+Avalon should feel like a private island of your own:
 
 Quiet, simple, private — and reliable when you need to find something important.
 
@@ -252,7 +252,7 @@ Quiet, simple, private — and reliable when you need to find something importan
 
 ## Roadmap
 
-Avalon Safe is currently under active development.
+Avalon is currently under active development.
 
 Planned areas include:
 
@@ -272,7 +272,7 @@ The roadmap will evolve as the project develops.
 
 ## Contributing
 
-Avalon Safe is an open-source project and an ongoing exploration.
+Avalon is an open-source project and an ongoing exploration.
 
 If you're interested in any of the following, we'd love to have you involved:
 
@@ -285,7 +285,7 @@ If you're interested in any of the following, we'd love to have you involved:
 * UI / UX
 * Product design
 
-Whether you'd like to contribute code, share ideas, improve the design, or report an issue, you're welcome to contribute to Avalon Safe.
+Whether you'd like to contribute code, share ideas, improve the design, or report an issue, you're welcome to contribute to Avalon.
 
 > **Build a private island for important documents.**
 
@@ -293,10 +293,10 @@ Whether you'd like to contribute code, share ideas, improve the design, or repor
 
 ## License
 
-Avalon Safe is licensed under the **Apache License 2.0**.
+Avalon is licensed under the **Apache License 2.0**.
 
 You are free to use, modify, and distribute the software in accordance with the terms of the license.
 
 See the [LICENSE](LICENSE) file for the full license text.
 
-Copyright © 2026 Avalon Safe contributors.
+Copyright © 2026 Avalon contributors.
